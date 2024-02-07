@@ -1,7 +1,7 @@
 <div>
   <h2 align="center">About me 😄</h2>
 
-  <img align="right" alt="Some funny gif" height="185" src="images/pepe-matrix.gif" />
+  <img align="right" alt="Some funny gif" height="185" src="images/giphy.gif" />
 
 Hi there, I'm Mikhail U. 👋 \
 Here you can read some short info about me:
