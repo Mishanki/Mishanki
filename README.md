@@ -1,9 +1,9 @@
 <div>
-  <h2 align="center">About me 😄</h2>
+  <h2 align="center">Hi there, I'm Mikhail Mishankin 👋</h2>
 
   <img align="right" alt="Some funny gif" height="185" src="images/giphy.gif" />
 
-Hi there, I'm Mikhail U. 👋 \
+
 Here you can read some short info about me:
 
 ⚡ Middle PHP and Go developer \
