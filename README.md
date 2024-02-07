@@ -7,6 +7,7 @@ Hi there, I'm Mikhail U. 👋 \
 Here you can read some short info about me:
 
 ⚡ Middle PHP and Go developer \
+💻 Developing REST API services \
 📫 Welcome to my [packages](https://packagist.org/users/Mishanki/packages/)
 and [telegram channel](https://t.me/Mishanki12)
 </div>
