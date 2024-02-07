@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div>
     <div>
   <h2 align="center">About me 😄</h2>
