@@ -3,7 +3,7 @@
 
  <img align="right" alt="Some gif" height="185" src="images/giphy.gif" />
 
-<div min-width=100px>
+<div style="min-width:100px">
 Here you can read some short info about me:
 </div>
 
