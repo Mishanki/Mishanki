@@ -1,9 +1,9 @@
 <div>
   <h2 align="center">Hi there, I'm Mikhail Mishankin 👋</h2>
 
-<img align="right" alt="Some gif" height="200" src="images/IMG_2591.gif" />
+<img align="right" alt="Some gif" width="350" src="images/IMG_2591.gif" /> 
 
-### Here you can read some short info about me:
+**Here you can read some short info about me:** 
 
 ⚡ Middle PHP and Go developer \
 💻 Developing REST API services \
