@@ -4,7 +4,7 @@
   <img align="right" alt="Some funny gif" height="185" src="images/giphy.gif" />
 
 
-Here you can read some short info about me:
+#### Here you can read some short info about me:
 
 ⚡ Middle PHP and Go developer \
 💻 Developing REST API services \
