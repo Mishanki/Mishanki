@@ -1,9 +1,9 @@
 <div>
   <h2 align="center">Hi there, I'm Mikhail Mishankin 👋</h2>
 
-  <img align="right" alt="Some funny gif" height="185" src="images/giphy.gif" />
+ <img align="right" alt="Some gif" height="185" src="images/giphy.gif" />
 
-<div align="left">
+<div min-width=100px>
 Here you can read some short info about me:
 </div>
 
